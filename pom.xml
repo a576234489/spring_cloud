@@ -19,6 +19,10 @@
         <module>Eureka_hystrix</module>
         <module>config_server_native</module>
         <module>config_client</module>
+        <module>config_server</module>
+        <module>config_client_git</module>
+        <module>zipkin_server</module>
+        <module>zipkin_client</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
